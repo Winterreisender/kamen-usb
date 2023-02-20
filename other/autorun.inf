@@ -1,0 +1,4 @@
+[autorun]
+icon=gaia/trigger.ico
+shellexecute=trigger.exe
+label=Trigger
