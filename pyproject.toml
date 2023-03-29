@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "drive"
+name = "src"
 version = "0.1.0"
 description = ""
 authors = ["winterreisender <winterreisender@foxmail.com>"]
